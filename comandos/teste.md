@@ -1,8 +1,8 @@
-# Iniciando com GIT :computer:
+# :computer:
 
 ### Comandos 
 
 - git init -  cria um novo repositório do Git
-- git add
+- git add - 
 - git commit
 
