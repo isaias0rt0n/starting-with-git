@@ -12,3 +12,5 @@ A seguir os comandos básicos do git :books:
 - git remote add origin 
 - git remote 
 - git push origin master
+- git pull
+- git clone

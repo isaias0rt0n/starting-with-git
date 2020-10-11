@@ -14,5 +14,6 @@
 - git remote add origin https://seu-link-do-repositorio.git - Aponta o nosso repositório local para o repositório remoto. 
   - O "origin" é o nome do repositório remoto padrão em que se criou localmente através do clone
 - git remote -v  - Lista os meus repositórios remotos cadastrados
-- git push origin master - "Empurra" o nosso repositório local para o remoto (github, nesse caso)
-
+- git push origin master - "Empurra" o nosso repositório local para o remoto (GitHub, nesse caso)
+- git pull origin master - "Pega" o nosso repositório remoto para o local.
+- git clone https://link-projeto-github.git - Clona um repositório do GitHub para nossa maquina local. Pode ser para contribuir, alterar, usar, etc.
